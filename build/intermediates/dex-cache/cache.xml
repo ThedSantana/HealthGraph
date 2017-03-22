@@ -2,22 +2,22 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/home/ajit/.android/build-cache/77bbcb2bd7fbd609f3856d8507ce5be6b39cb1ec/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/ajit/Downloads/HealthGraph/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
-        <dex dex="/home/ajit/Downloads/HealthGraph/app/build/intermediates/pre-dexed/debug/classes_a86c7070f79a449891d832efa076a4f3bc479826.jar" />
+        sha1="891c4930a8ce19e682e45babf829bb278098b9c1">
+        <dex dex="/home/ajit/Downloads/HealthGraph/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2097fd733923b0a7e4127ffd43c88d78c4f7f326/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/ajit/.android/build-cache/116fba1ce9f5c6fa1cf9333dcf0115c0f61098c5/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/ajit/Downloads/HealthGraph/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
-        <dex dex="/home/ajit/Downloads/HealthGraph/app/build/intermediates/pre-dexed/debug/classes_e6c951d668bc702b82af277d32b31e910f26da86.jar" />
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/ajit/Downloads/HealthGraph/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9ce9266fe6087fe1bb6ee1995869b8de82bed6c3/classes.dex" />
     </item>
 
 </items>

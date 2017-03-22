@@ -194,7 +194,7 @@ public class DatabaseHelper extends SQLiteOpenHelper{
         /**
          * Here query function is used to fetch records from user table this function works like we use sql query.
          * SQL query equivalent to this query function is
-         * SELECT user_id FROM user WHERE user_email = 'jack@androidtutorialshub.com';
+         * SELECT user_id FROM user WHERE user_email = 'ajitkumarjain123@gmail.com';
          */
         Cursor cursor = db.query(TABLE_USER, //Table to query
                 columns,                    //columns to return
